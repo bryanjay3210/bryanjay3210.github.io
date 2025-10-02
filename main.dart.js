@@ -79131,7 +79131,7 @@ A.QJ.prototype={
 N(a){var s=null,r=t.w,q=A.bb(a,s,r).w.a.a,p=A.bb(a,s,r).w
 return A.Fu(A.ds(A.tB(B.cA,A.b([A.pf(s,A.ds(new A.vT(A.b([A.ao0(a,B.k,"Hi there! \nI'm Bryan Jay Cuyos"),A.ao0(a,B.k,"I am an experienced software engineer"),A.ao0(a,B.k,"looking to help drive your company's growth and success"),A.ao0(a,B.k,"while further developing my career in software development.")],t.u6),B.f5,!0,!0,s),s,q*0.5),s,s,0,s,150,s),A.pf(0,A.aph("assets/profile.png",s,Math.min(A.bb(a,s,r).w.a.a*0.6,400),Math.min(A.bb(a,s,r).w.a.a*0.6,400)),s,s,s,0,s,s)],t.p),B.M,B.dd),p.a.b,q*0.8),a,q)}}
 A.ze.prototype={
-ak(){return new A.Sn(A.av(t.S),A.b([new A.kJ("IPTV","assets/screenshot/iptv/mobile-dashboard-h.png"),new A.kJ("Customer Portal","assets/screenshot/customer-portal/login.png"),new A.kJ("Field Tech Portal","assets/screenshot/field-tech-portal/dashboard.png"),new A.kJ("Baba","assets/screenshot/baba/login.png"),new A.kJ("Credit Tracker","assets/screenshot/credit-tracker/dashboard.png"),new A.kJ("POS","assets/screenshot/pos/dashboard.png")],t.gd))}}
+ak(){return new A.Sn(A.av(t.S),A.b([new A.kJ("IPTV","assets/screenshot/iptv/mobile-dashboard-h.png"),new A.kJ("Customer Portal","assets/screenshot/customer-portal/login.png"),new A.kJ("Field Tech Portal","assets/screenshot/field-tech-portal/dashboard.png"),new A.kJ("Baba","assets/screenshot/baba/login.PNG"),new A.kJ("Credit Tracker","assets/screenshot/credit-tracker/dashboard.PNG"),new A.kJ("POS","assets/screenshot/pos/dashboard.PNG")],t.gd))}}
 A.Sn.prototype={
 N(a){var s,r=this,q=null,p=A.bb(a,q,t.w).w,o=A.wT(a)
 switch(o){case"Mobile":s=r.e=1
