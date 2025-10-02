@@ -79102,9 +79102,9 @@ A.co.prototype={}
 A.wE.prototype={
 ak(){return new A.OE()}}
 A.OE.prototype={
-N(a){var s=null,r="+63 909 732 6446",q=A.wT(a),p=A.bb(a,s,t.w).w,o=A.b([new A.hq("Email","bryanjay.3210@gmail.com",B.CK),new A.hq("Phone",r,B.CP),new A.hq("Location","Delos Reyes Compound, Prk. Masunurin, Brgy. San Isidro General Santos City, 9500, Philippines",B.CM),new A.hq("Github","https://github.com/bryanjay3210",B.CL),new A.hq("LinkedIn","https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile",B.CO),new A.hq("Whatsapp",r,B.CN)],t.AR),n=A.a2(new A.ae(o,new A.agg(a,o),t.iU),!0,t.l7),m=A.avl(n,!0,!0,!0)
+N(a){var s=null,r="+63 909 732 6446",q=A.bb(a,s,t.w).w,p=A.wT(a),o=A.b([new A.hq("Email","bryanjay.3210@gmail.com",B.CK),new A.hq("Phone",r,B.CP),new A.hq("Location","Delos Reyes Compound, Prk. Masunurin, Brgy. San Isidro General Santos City, 9500, Philippines",B.CM),new A.hq("Github","https://github.com/bryanjay3210",B.CL),new A.hq("LinkedIn","https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile",B.CO),new A.hq("Whatsapp",r,B.CN)],t.AR),n=A.a2(new A.ae(o,new A.agg(a,o),t.iU),!0,t.l7),m=A.avl(n,!0,!0,!0)
 n=n.length
-return A.Fu(A.WP(new A.yh(m,s,B.ac,!1,s,s,B.ji,!0,s,n,B.Y,B.h0,s,B.M,B.a5,s),a,q,"My Contacts"),a,p.a.a)}}
+return A.Fu(A.WP(new A.yh(m,s,B.ac,!1,s,s,B.ji,!0,s,n,B.Y,B.h0,s,B.M,B.a5,s),a,p,"My Contacts"),a,q.a.a)}}
 A.agg.prototype={
 $1(a){var s=null,r=15e5,q=A.at8(a.c.c,B.bP,25),p=a.a,o=A.eF(p,s,s,s,A.hi().$2$color$fontSize(B.k,20),s),n=A.av4(a.b,A.hi().$3$color$fontSize$fontWeight(B.k,15,B.dQ))
 q=A.i4(A.app(q,n,o,p==="Location"?B.LY:A.apg(s,s,B.CJ,s,s,new A.agf(a,this.a),s,s,s)),A.b4(r,0))
@@ -79131,7 +79131,7 @@ A.QJ.prototype={
 N(a){var s=null,r=t.w,q=A.bb(a,s,r).w.a.a,p=A.bb(a,s,r).w
 return A.Fu(A.ds(A.tB(B.cA,A.b([A.pf(s,A.ds(new A.vT(A.b([A.ao0(a,B.k,"Hi there! \nI'm Bryan Jay Cuyos"),A.ao0(a,B.k,"I am an experienced software engineer"),A.ao0(a,B.k,"looking to help drive your company's growth and success"),A.ao0(a,B.k,"while further developing my career in software development.")],t.u6),B.f5,!0,!0,s),s,q*0.5),s,s,0,s,150,s),A.pf(0,A.aph("assets/profile.png",s,Math.min(A.bb(a,s,r).w.a.a*0.6,400),Math.min(A.bb(a,s,r).w.a.a*0.6,400)),s,s,s,0,s,s)],t.p),B.M,B.dd),p.a.b,q*0.8),a,q)}}
 A.ze.prototype={
-ak(){return new A.Sn(A.av(t.S),A.b([new A.kJ("IPTV","assets/screenshot/iptv/mobile-dashboard-h.png"),new A.kJ("Customer Portal","assets/screenshot/customer-portal/login.png"),new A.kJ("Field Tech Portal","assets/screenshot/field-tech-portal/dashboard.png"),new A.kJ("Baba","assets/screenshot/baba/login.png"),new A.kJ("Credit Tracker","assets/screenshot/credit-tracker/login.png"),new A.kJ("POS","assets/screenshot/pos/login.png")],t.gd))}}
+ak(){return new A.Sn(A.av(t.S),A.b([new A.kJ("IPTV","assets/screenshot/iptv/mobile-dashboard-h.png"),new A.kJ("Customer Portal","assets/screenshot/customer-portal/login.png"),new A.kJ("Field Tech Portal","assets/screenshot/field-tech-portal/dashboard.png"),new A.kJ("Baba","assets/screenshot/baba/login.png"),new A.kJ("Credit Tracker","assets/screenshot/credit-tracker/dashboard.png"),new A.kJ("POS","assets/screenshot/pos/dashboard.png")],t.gd))}}
 A.Sn.prototype={
 N(a){var s,r=this,q=null,p=A.bb(a,q,t.w).w,o=A.wT(a)
 switch(o){case"Mobile":s=r.e=1
