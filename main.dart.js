@@ -83649,47 +83649,47 @@ return A.ww(A.dR(A.uy(B.cL,A.c([n,A.q3(0,q.wB(A.azH(A.aaF(B.f,0.2,r),r,r,s,A.aaF
 A.Ap.prototype={
 al(){return new A.Uy(new A.a0b(new A.ba(new A.aj($.al,t.wC),t.Fe)))}}
 A.Uy.prototype={
-N(a){var s,r=this,q=null,p=1e6,o={},n=t.w,m=A.b7(a,q,n).w,l=A.t_(a),k=t.s,j=o.a=A.c([],k),i=r.a.c,h=""
-if(i.length!==0)switch(i){case"IPTV":j=A.c([u.x,"assets/screenshot/iptv/mobile-dashboard-v.png","assets/screenshot/iptv/program1.png","assets/screenshot/iptv/program2.png","assets/screenshot/iptv/program3.png","assets/screenshot/iptv/livetv1.png","assets/screenshot/iptv/livetv2.png","assets/screenshot/iptv/dvr1.png","assets/screenshot/iptv/dvr2.png","assets/screenshot/iptv/dvr3.png"],k)
-o.a=j
-k=j
-h="IPTV (Internet Protocol Television) is a digital TV broadcasting technology that delivers live TV channels, video-on-demand, and multimedia content over the internet instead of traditional cable or satellite. It allows users to stream programs on smart TVs, smartphones, and computers with flexible viewing and interactive features. \n \n A key feature of modern IPTV systems is DVR (Digital Video, Recording) support, which lets users download or record specific programs and watch them later offline\u2014offering full control over viewing time and convenience."
+N(a){var s,r=this,q=null,p=2e6,o=1e6,n={},m=t.w,l=A.b7(a,q,m).w,k=A.t_(a),j=t.s,i=n.a=A.c([],j),h=r.a.c,g=""
+if(h.length!==0)switch(h){case"IPTV":i=A.c([u.x,"assets/screenshot/iptv/mobile-dashboard-v.png","assets/screenshot/iptv/program1.png","assets/screenshot/iptv/program2.png","assets/screenshot/iptv/program3.png","assets/screenshot/iptv/livetv1.png","assets/screenshot/iptv/livetv2.png","assets/screenshot/iptv/dvr1.png","assets/screenshot/iptv/dvr2.png","assets/screenshot/iptv/dvr3.png"],j)
+n.a=i
+j=i
+g="IPTV (Internet Protocol Television) is a digital TV broadcasting technology that delivers live TV channels, video-on-demand, and multimedia content over the internet instead of traditional cable or satellite. It allows users to stream programs on smart TVs, smartphones, and computers with flexible viewing and interactive features. \n \n A key feature of modern IPTV systems is DVR (Digital Video, Recording) support, which lets users download or record specific programs and watch them later offline\u2014offering full control over viewing time and convenience."
 break
-case"Customer Portal":j=A.c([u.y,"assets/screenshot/customer-portal/dashboard.png","assets/screenshot/customer-portal/invoices.png","assets/screenshot/customer-portal/credit-card.png","assets/screenshot/customer-portal/payment.png","assets/screenshot/customer-portal/products.png","assets/screenshot/customer-portal/transaction.png"],k)
-o.a=j
-k=j
-h="Customer Portal is a secure online platform that allows customers to manage their accounts, access services, and track transactions in one place. It provides self-service features such as viewing bills, making payments, updating personal information, submitting support requests, and monitoring service usage\u2014enhancing convenience, transparency, and customer engagement."
+case"Customer Portal":i=A.c([u.y,"assets/screenshot/customer-portal/dashboard.png","assets/screenshot/customer-portal/invoices.png","assets/screenshot/customer-portal/credit-card.png","assets/screenshot/customer-portal/payment.png","assets/screenshot/customer-portal/products.png","assets/screenshot/customer-portal/transaction.png"],j)
+n.a=i
+j=i
+g="Customer Portal is a secure online platform that allows customers to manage their accounts, access services, and track transactions in one place. It provides self-service features such as viewing bills, making payments, updating personal information, submitting support requests, and monitoring service usage\u2014enhancing convenience, transparency, and customer engagement."
 break
-case"Field Tech Portal":j=A.c(["assets/screenshot/field-tech-portal/login.png",u.D,"assets/screenshot/field-tech-portal/inventory-search.png","assets/screenshot/field-tech-portal/schedule.png","assets/screenshot/field-tech-portal/service-call.png","assets/screenshot/field-tech-portal/settings.png","assets/screenshot/field-tech-portal/warehouse.png"],k)
-o.a=j
-k=j
-h="Field Tech Portal is a dedicated platform designed for field technicians to efficiently manage service tasks and on-site operations. It provides real-time access to work orders, customer details, schedules, and service histories, enabling technicians to update job status, capture photos, and report issues directly from the field. This streamlines communication, improves productivity, and ensures faster, more accurate service delivery."
+case"Field Tech Portal":i=A.c(["assets/screenshot/field-tech-portal/login.png",u.D,"assets/screenshot/field-tech-portal/inventory-search.png","assets/screenshot/field-tech-portal/schedule.png","assets/screenshot/field-tech-portal/service-call.png","assets/screenshot/field-tech-portal/settings.png","assets/screenshot/field-tech-portal/warehouse.png"],j)
+n.a=i
+j=i
+g="Field Tech Portal is a dedicated platform designed for field technicians to efficiently manage service tasks and on-site operations. It provides real-time access to work orders, customer details, schedules, and service histories, enabling technicians to update job status, capture photos, and report issues directly from the field. This streamlines communication, improves productivity, and ensures faster, more accurate service delivery."
 break
-case"Baba":j=A.c(["assets/screenshot/baba/login.PNG","assets/screenshot/baba/register.PNG","assets/screenshot/baba/self-assessment.PNG","assets/screenshot/baba/chapter-title.PNG","assets/screenshot/baba/chapter-story-line.PNG","assets/screenshot/baba/profile.PNG","assets/screenshot/baba/story-progress.PNG","assets/screenshot/baba/story-screen.PNG","assets/screenshot/baba/vocabulary.PNG","assets/screenshot/baba/quiz.PNG","assets/screenshot/baba/score.PNG"],k)
-o.a=j
-k=j
-h="BABA is a mobile learning app designed to help users master both Spanish and English through interactive lessons and engaging activities. It offers vocabulary and grammar exercises, pronunciation guides, and real-life conversation examples. The app also includes a quiz section to test knowledge, track progress, and reinforce learning\u2014making language study fun, effective, and accessible anytime, anywhere."
+case"Baba":i=A.c(["assets/screenshot/baba/login.PNG","assets/screenshot/baba/register.PNG","assets/screenshot/baba/self-assessment.PNG","assets/screenshot/baba/chapter-title.PNG","assets/screenshot/baba/chapter-story-line.PNG","assets/screenshot/baba/profile.PNG","assets/screenshot/baba/story-progress.PNG","assets/screenshot/baba/story-screen.PNG","assets/screenshot/baba/vocabulary.PNG","assets/screenshot/baba/quiz.PNG","assets/screenshot/baba/score.PNG"],j)
+n.a=i
+j=i
+g="BABA is a mobile learning app designed to help users master both Spanish and English through interactive lessons and engaging activities. It offers vocabulary and grammar exercises, pronunciation guides, and real-life conversation examples. The app also includes a quiz section to test knowledge, track progress, and reinforce learning\u2014making language study fun, effective, and accessible anytime, anywhere."
 break
-case"Credit Tracker":j=A.c(["assets/screenshot/credit-tracker/login.PNG","assets/screenshot/credit-tracker/register.PNG",u.v,"assets/screenshot/credit-tracker/credit-list-empty.PNG","assets/screenshot/credit-tracker/credit-list.PNG","assets/screenshot/credit-tracker/creditor-list.PNG","assets/screenshot/credit-tracker/creditor-info.PNG","assets/screenshot/credit-tracker/creditor-information.PNG","assets/screenshot/credit-tracker/debit-list.PNG","assets/screenshot/credit-tracker/transaction-history.PNG"],k)
-o.a=j
-k=j
-h="Credit Tracker is a local credit management tool that allows users to monitor their credit activities and payment records within their community or organization. It helps track credit limits, dues, and transaction history while providing reminders for upcoming payments. Designed for local businesses or cooperatives, it promotes responsible lending and borrowing by ensuring transparency, accountability, and easy access to credit information."
+case"Credit Tracker":i=A.c(["assets/screenshot/credit-tracker/login.PNG","assets/screenshot/credit-tracker/register.PNG",u.v,"assets/screenshot/credit-tracker/credit-list-empty.PNG","assets/screenshot/credit-tracker/credit-list.PNG","assets/screenshot/credit-tracker/creditor-list.PNG","assets/screenshot/credit-tracker/creditor-info.PNG","assets/screenshot/credit-tracker/creditor-information.PNG","assets/screenshot/credit-tracker/debit-list.PNG","assets/screenshot/credit-tracker/transaction-history.PNG"],j)
+n.a=i
+j=i
+g="Credit Tracker is a local credit management tool that allows users to monitor their credit activities and payment records within their community or organization. It helps track credit limits, dues, and transaction history while providing reminders for upcoming payments. Designed for local businesses or cooperatives, it promotes responsible lending and borrowing by ensuring transparency, accountability, and easy access to credit information."
 break
-case"POS":j=A.c(["assets/screenshot/pos/login.PNG","assets/screenshot/pos/dashboard.PNG","assets/screenshot/pos/sold-dashboard.PNG","assets/screenshot/pos/inventory.PNG","assets/screenshot/pos/inventory-modal.PNG","assets/screenshot/pos/order.PNG","assets/screenshot/pos/order-listing.PNG","assets/screenshot/pos/order-modal.PNG","assets/screenshot/pos/sales-report.PNG"],k)
-o.a=j
-k=j
-h="POS with Inventory and Sales Report is an all-in-one point-of-sale system that streamlines business transactions while managing product inventory in real time. It allows users to record sales, track stock levels, and automatically update item quantities after each purchase. The system also generates detailed sales reports and analytics, helping business owners monitor performance, identify best-selling products, and make data-driven decisions to improve profitability and efficiency."
+case"POS":i=A.c(["assets/screenshot/pos/login.PNG","assets/screenshot/pos/dashboard.PNG","assets/screenshot/pos/sold-dashboard.PNG","assets/screenshot/pos/inventory.PNG","assets/screenshot/pos/inventory-modal.PNG","assets/screenshot/pos/order.PNG","assets/screenshot/pos/order-listing.PNG","assets/screenshot/pos/order-modal.PNG","assets/screenshot/pos/sales-report.PNG"],j)
+n.a=i
+j=i
+g="POS with Inventory and Sales Report is an all-in-one point-of-sale system that streamlines business transactions while managing product inventory in real time. It allows users to record sales, track stock levels, and automatically update item quantities after each purchase. The system also generates detailed sales reports and analytics, helping business owners monitor performance, identify best-selling products, and make data-driven decisions to improve profitability and efficiency."
 break
-default:k=j}else k=j
-i=r.a.c
-i.toString
-k=k.length
-n=A.b7(a,q,n).w
-s=A.aP(1e5,0)
-n=A.hH(A.fI(A.fa(new A.xl(new A.a0a(n.a.b*0.5,!0,!0,s,!0,new A.anx(r)),new A.any(o),r.e,k,q),A.aP(p,0)),q,A.aP(p,0)),0.2,A.aP(p,0),0)
-k=t.l7
-k=A.a2(A.atR(o.a.length,new A.anz(r),!0,k),k)
-return A.ww(A.H9(A.ho(A.c([n,B.cB,A.hH(A.fI(A.fa(A.no(k,B.S,B.da,B.aq,0),A.aP(2e6,0)),q,A.aP(p,0)),0.2,A.aP(p,0),0),B.hI,A.hH(A.fI(A.fa(new A.cI(B.Dx,A.f2(h,q,q,q,A.hj().$2$color$fontSize(B.k,15),B.dx),q),A.aP(2e6,0)),q,A.aP(p,0)),0.2,A.aP(p,0),0)],t.p),B.S,B.aa,B.aq),a,l,!0,i),a,m.a.a,!1)}}
+default:j=i}else j=i
+h=r.a.c
+h.toString
+j=j.length
+m=A.b7(a,q,m).w
+s=A.aP(p,0)
+m=A.hH(A.fI(A.fa(new A.xl(new A.a0a(m.a.b*0.5,!0,!0,s,!0,new A.anx(r)),new A.any(n),r.e,j,q),A.aP(o,0)),q,A.aP(o,0)),0.2,A.aP(o,0),0)
+j=t.l7
+j=A.a2(A.atR(n.a.length,new A.anz(r),!0,j),j)
+return A.ww(A.H9(A.ho(A.c([m,B.cB,A.hH(A.fI(A.fa(A.no(j,B.S,B.da,B.aq,0),A.aP(p,0)),q,A.aP(o,0)),0.2,A.aP(o,0),0),B.hI,A.hH(A.fI(A.fa(new A.cI(B.Dx,A.f2(g,q,q,q,A.hj().$2$color$fontSize(B.k,15),B.dx),q),A.aP(p,0)),q,A.aP(o,0)),0.2,A.aP(o,0),0)],t.p),B.S,B.aa,B.aq),a,k,!0,h),a,l.a.a,!1)}}
 A.anx.prototype={
 $2(a,b){var s=this.a
 return s.ar(new A.anw(s,a))},
